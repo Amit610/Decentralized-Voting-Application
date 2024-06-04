@@ -26,11 +26,15 @@ npm start
 ```
 
  ## This Dapp is using Volta test network 
- To add this network in meta mask simply go to add new network 
- Network name = volta
- RPC URL = [RPC URL](https://73799.rpc.thirdweb.com)
- Chain ID =  73799
- Currency symbol = VT 
+ To add this network in meta mask simply go to add new network  
+
+ Network name = volta ,
+
+ RPC URL = [RPC URL](https://73799.rpc.thirdweb.com) ,
+
+ Chain ID =  73799 ,
+ 
+ Currency symbol = VT ,
 
 And save 
 

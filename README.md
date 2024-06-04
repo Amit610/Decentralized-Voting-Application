@@ -25,12 +25,13 @@ Once you have pasted your private key and contract address in the .env file, sim
 npm start
 ```
 
-This Dapp is using Volta test network to add this network in meta mask simply go to add new network 
-Network name = volta
-RPC URL = [text](https://73799.rpc.thirdweb.com)
-Chain ID =  73799
-Currency symbol = VT 
+ ## This Dapp is using Volta test network 
+ To add this network in meta mask simply go to add new network 
+ Network name = volta
+ RPC URL = [RPC URL](https://73799.rpc.thirdweb.com)
+ Chain ID =  73799
+ Currency symbol = VT 
 
 And save 
 
-To get volta test tokans for voting go to [text](https://voltafaucet.energyweb.org/) and paste the wallet id and recive the tokans 
+To get volta test tokans for voting go to [voltafaucet](https://voltafaucet.energyweb.org/) and paste the wallet id and recive the tokans 

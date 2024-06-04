@@ -5,7 +5,7 @@ async function main() {
   const Voting_ = await Voting.deploy(["Mark", "Mike", "Henry", "Rock"], 90);
   console.log("Contract address:", Voting_.address);
 
-
+ 
 }
 
 main()

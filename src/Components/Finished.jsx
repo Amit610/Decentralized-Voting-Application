@@ -7,5 +7,5 @@ const Finished = (props) => {
         </div>
     )
 }
-
+ 
 export default Finished;

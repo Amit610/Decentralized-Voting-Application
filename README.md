@@ -33,8 +33,8 @@ npm start
  RPC URL = [RPC URL](https://73799.rpc.thirdweb.com) ,
 
  Chain ID =  73799 ,
- 
- Currency symbol = VT ,
+
+ Currency symbol = VT , 
 
 And save 
 
